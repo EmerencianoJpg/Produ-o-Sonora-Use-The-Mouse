@@ -21,11 +21,11 @@ As músicas originais estão disponíveis neste repositório e podem ser usadas 
 
 O jogo foi desenvolvido com a **Godot Engine**, uma engine de jogos de código aberto. A linguagem de programação utilizada foi a **GDScript**, uma linguagem de script leve e otimizada para o Godot. A ferramenta **FL Studio** foi utilizada para a criação e edição das trilhas sonoras e efeitos de áudio.
 
+## Link de Download das Musicas
+
+https://drive.google.com/file/d/16zDBc284cBwXpTTXkUfr9jDVfCP_Nzv1/view?usp=sharing
+
 ## Demonstração do Jogo
-
-Assista ao vídeo de demonstração do jogo aqui:
-
-### Demonstração do Jogo
 
 [![Demonstração do Jogo](https://i.ytimg.com/vi/7DySFcLMly0/hqdefault.jpg)](https://youtu.be/7DySFcLMly0)
 
