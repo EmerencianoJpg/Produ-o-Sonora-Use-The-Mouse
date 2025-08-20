@@ -36,7 +36,7 @@ https://drive.google.com/file/d/16zDBc284cBwXpTTXkUfr9jDVfCP_Nzv1/view?usp=shari
 
 ## Equipe de Desenvolvimento Retro Ratos
 
+  * **Hugo Borges** - Desenvolvedor e Diretor do Jogo
   * **Lucas Emerenciano** - Diretor de Som
-  * **Hugo Borges** - Desenvolvedor e diretor do jogo
   * **Luiz Eduardo** - Diretor de arte
   * **Calebe Miranda** - Desenvolvedor e artista
