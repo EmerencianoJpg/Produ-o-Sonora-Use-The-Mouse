@@ -1,5 +1,6 @@
 # Projeto: Use The Mouse
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=gdscript&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL_Studio-000000?style=for-the-badge&logo=fl-studio&logoColor=white)
 
 Este projeto é um jogo desenvolvido para a disciplina de "Tópicos em Computação Gráfica" do curso de Ciência da Computação, que simula de forma criativa os desafios da vida acadêmica.
 
