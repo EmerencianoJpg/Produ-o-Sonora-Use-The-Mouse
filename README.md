@@ -27,7 +27,7 @@ https://drive.google.com/file/d/16zDBc284cBwXpTTXkUfr9jDVfCP_Nzv1/view?usp=shari
 
 ## Demonstração do Jogo
 
-[![Demonstração do Jogo](https://i.ytimg.com/vi/7DySFcLMly0/hqdefault.jpg)](https://youtu.be/7DySFcLMly0)
+[![Demonstração do Jogo](https://github.com/EmerencianoJpg/Producao-Sonora-Use-The-Mouse/blob/main/UseTheMouse.jpg)](https://youtu.be/7DySFcLMly0)
 
 ## Link de download do jogo:
 
