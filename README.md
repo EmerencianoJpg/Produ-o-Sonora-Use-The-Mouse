@@ -1,4 +1,5 @@
-#Projeto: Use The Mouse
+# Projeto: Use The Mouse
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=gdscript&logoColor=white)
 
 Este projeto é um jogo desenvolvido para a disciplina de "Tópicos em Computação Gráfica" do curso de Ciência da Computação, que simula de forma criativa os desafios da vida acadêmica.
 
@@ -30,7 +31,7 @@ Assista ao vídeo de demonstração do jogo aqui:
 
 [![Demonstração do Jogo](https://i.ytimg.com/vi/7DySFcLMly0/hqdefault.jpg)](https://youtu.be/7DySFcLMly0)
 
-## Equipe de Desenvolvimento
+## Equipe de Desenvolvimento Retro Ratos
 
   * **[Nome do Membro da Equipe]** - [Função no Projeto]
-  * **Lucas Emerenciano Ramos** - Engenharia Sonora
+  * **Lucas Emerenciano Ramos** - Diretor de Som
