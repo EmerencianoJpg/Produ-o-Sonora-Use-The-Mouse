@@ -11,7 +11,7 @@ Este projeto é um jogo desenvolvido para a disciplina de "Tópicos em Computaç
 
 Fui o responsável por toda a parte sonora do jogo, desde a ambientação até os efeitos de combate. Essa área foi fundamental para dar vida à atmosfera do jogo e reforçar a experiência do jogador em cada momento. Minhas responsabilidades incluíram:
 
-  * **Trilha Sonora:** Composição das músicas de fundo para as diferentes fases do jogo. As músicas das fases e das batalhas de chefe foram baseadas em canções reais, escolhidas pelos professores.
+  * **Trilha Sonora:** Composição das músicas de fundo para as diferentes fases do jogo. As músicas das fases e das batalhas de chefe foram baseadas em canções reais, escolhidas pelos professores. Para a criação, foi utilizado o programa FL Studio
   * **Efeitos do Personagem:** Criação dos sons para as ações do personagem principal.
   * **Efeitos de Mobs e Bosses:** Design de som para os inimigos e, principalmente, para os professores-chefes, garantindo que cada batalha fosse única e impactante.
 
@@ -19,19 +19,23 @@ As músicas originais estão disponíveis neste repositório e podem ser usadas 
 
 ## Tecnologias Utilizadas
 
-O jogo foi desenvolvido com a **Godot Engine**, uma engine de jogos de código aberto. A linguagem de programação utilizada foi a **GDScript**, uma linguagem de script leve e otimizada para o Godot.
+O jogo foi desenvolvido com a **Godot Engine**, uma engine de jogos de código aberto. A linguagem de programação utilizada foi a **GDScript**, uma linguagem de script leve e otimizada para o Godot. A ferramenta **FL Studio** foi utilizada para a criação e edição das trilhas sonoras e efeitos de áudio.
 
 ## Demonstração do Jogo
 
 Assista ao vídeo de demonstração do jogo aqui:
 
-[**LINK DO VÍDEO DO YOUTUBE/VIMEO AQUI**]
-
 ### Demonstração do Jogo
 
 [![Demonstração do Jogo](https://i.ytimg.com/vi/7DySFcLMly0/hqdefault.jpg)](https://youtu.be/7DySFcLMly0)
 
+## Link de download do jogo:
+
+**https://bacalhass.itch.io/use-the-mouse-retro-ratos**
+
 ## Equipe de Desenvolvimento Retro Ratos
 
-  * **[Nome do Membro da Equipe]** - [Função no Projeto]
-  * **Lucas Emerenciano Ramos** - Diretor de Som
+  * **Lucas Emerenciano** - Diretor de Som
+  * **Hugo Borges** - Desenvolvedor e diretor do jogo
+  * **Luiz Eduardo** - Diretor de arte
+  * **Calebe Miranda** - Desenvolvedor e artista
